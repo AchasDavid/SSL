@@ -1,7 +1,9 @@
 # 00 - Hello World
 
 Compilador: GCC
+
 Versión: 6.3.0
+
 Versión de C: C11
 
 ## Enunciado
